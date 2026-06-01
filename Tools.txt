@@ -4,7 +4,7 @@ List of useful AI tools:
 
 2. Wispr flow AI: Voice-to-text AI that turns speech into clear polished writing in every app.
 
-3. Stitch Ai: UI/UX design.
+3. Stitch AI: UI/UX design.
 
 4. Google AI Studio: Frontend and backend (give prompt and it builds for you).
 
