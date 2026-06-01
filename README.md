@@ -1,6 +1,6 @@
 # Useful_AI_Tools
 
-This repository provides a collection of AI tools designed to streamline workflows and enhance productivity
+This repository contains a curated list of useful AI tools that can help users work more efficiently and boost productivity.
 
 List of useful AI tools:
 
