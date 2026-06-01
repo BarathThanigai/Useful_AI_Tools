@@ -1,2 +1,2 @@
 # Useful_AI_Tools
-List of few useful AI tools that can be used to work efficiently
+This repository contains a list of few useful AI tools that can be used to work efficiently
