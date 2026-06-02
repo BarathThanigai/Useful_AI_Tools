@@ -27,3 +27,5 @@ List of useful AI tools:
 11. n8n (Personal Agentic AI employee): Fair-code workflow automation platform with native AI capabilities.
 
 12. Dispatch mode feature in Claude: Pairs mobile app with desktop, allowing us to assign, monitor and approve tasks or workflows away from our computers.
+
+13. 9router: Connect every CLI/IDE to all major AI providers through one OpenAI-compatible endpoint.
