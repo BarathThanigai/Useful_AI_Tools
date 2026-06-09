@@ -29,3 +29,5 @@ List of useful AI tools:
 12. Dispatch mode feature in Claude: Pairs mobile app with desktop, allowing us to assign, monitor and approve tasks or workflows away from our computers.
 
 13. 9Router: Connect every CLI/IDE to all major AI providers through one OpenAI-compatible endpoint.
+
+14. React Bits - Open-source library offering 110+ animated, interactive, and customizable React components.
